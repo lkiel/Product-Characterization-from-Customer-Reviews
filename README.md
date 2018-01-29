@@ -1,6 +1,6 @@
 # Amazon Reviews Analysis for Focused Online Shopping
 
-# [Notebook](https://github.com/lkieliger/Product-Characterization-from-Customer-Reviews/blob/master/Natural_Language_Project.ipynb) [Report](https://github.com/lkieliger/Product-Characterization-from-Customer-Reviews/blob/master/report.pdf)
+# [Notebook](https://github.com/lkieliger/Product-Characterization-from-Customer-Reviews/blob/master/Natural_Language_Project.ipynb) - [Report](https://github.com/lkieliger/Product-Characterization-from-Customer-Reviews/blob/master/report.pdf)
 
 ## Abstract
 
